@@ -1,5 +1,6 @@
 # Scenery-Identificator
 ### Python AI image identification
+#### Marco Antonio Camalich Pérez
 ## Selección del data set
 #### Bansal, P. (2019). Intel Image Classification. Kaggle.com. https://www.kaggle.com/datasets/puneet6060/intel-image-classification?resource=download
 El dataset utilizado en este proyecto fue obtenido de kaggle.com. Posee 24,335 fotografías divididas en tres subcarpetas: "prediction", "test" y "training". Estas fotografías pertenecen a una de seis diferentes subclases: 
